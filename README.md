@@ -22,6 +22,6 @@ Hur man gör saker:
 
     git checkout <branch name> 
 
---Skapa ny branch och byt till den 
+--Skapa ny branch && Byta branch 
 
     git checkout -b <branch name>
