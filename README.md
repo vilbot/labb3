@@ -8,7 +8,7 @@ Hur man gör saker:
 
     git add .
     git commit -m "<nåt meddelande>"
-    git push origin <branch name>
+    git push -u origin <branch name>
 
 --Kolla vilka brancher som finns
 
